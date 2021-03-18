@@ -1,0 +1,2 @@
+rootProject.name = "bazel-kotlin-compiler-plugin"
+include ':library'
