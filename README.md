@@ -1,6 +1,6 @@
 # Bazel parcelizable compiler error
 
-This repos is to reproduce a compilation error encountered when trying to build with bazel using
+This repo is to reproduce a compilation error encountered when trying to build with bazel using
 bazelbuild/rules_kotlin build rules and parcelizable kotlin compiler plugin.
 
 Command to invoke to reproduce the error.
